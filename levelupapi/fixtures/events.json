@@ -1,0 +1,35 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "title": "Throw Event",
+            "description": "A night of Throw Throw Burrito",
+            "hoster": 1,
+            "game": 2,
+            "datetime": "Wednesday from 7p to 9p."
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "title": "Jerry's Night",
+            "description": "Get ready to think.",
+            "hoster": 1,
+            "game": 1,
+            "datetime": "Tuesday from 7p to 9p."
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 3,
+        "fields": {
+            "title": "Eating & Trowing Burritos.",
+            "description": "Munching on tasty 'ritos and dodging filty burritos.",
+            "hoster": 1,
+            "game": 2,
+            "datetime": "March 8th from 7p to 9p."
+        }
+    }
+]

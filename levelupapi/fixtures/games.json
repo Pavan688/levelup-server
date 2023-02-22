@@ -7,7 +7,8 @@
             "creator": "Barry Kent",
             "skill_level": "Ages 12 and up",
             "game_type": 1,
-            "gamer": 1
+            "gamer": 1,
+            "number_of_players": 4
         }
     },
     {
@@ -18,7 +19,8 @@
             "creator": "Jose Namor",
             "skill_level": "Ages 8 and up",
             "game_type": 1,
-            "gamer": 1
+            "gamer": 1,
+            "number_of_players": 4
         }
     }
 ]
